@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+.box1{
+    background-color:cadetblue;
+    padding: 2em;
+}
+.box2{
+    background-color: blue;
+    padding: 2em;
+
+}
+.box3{
+    background-color: blueviolet;
+    padding: 2em;
+
+}
+.box4{
+    background-color: darkslateblue;
+    padding: 2em;
+
+}
